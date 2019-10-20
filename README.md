@@ -12,3 +12,5 @@
 * Aponte bugs e ideias em **Issues**  
 * Contribuições no código em **Pull Requests**  
 * Compartilhe com outras pessoas
+
+Edição minha: estranhamente achei o jogo legal. Mas pretendo (um dia) mudar as comidas para um dict e deixar mais bonitinho no terminal.
